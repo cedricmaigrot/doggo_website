@@ -1,0 +1,32 @@
+:root {
+    --main-color-1:#4169E1;
+    --main-color-2:#4F65A9;
+    --main-color-3:#153592;
+    --main-color-4:#7090F0;
+    --main-color-5:#92AAF0;
+}
+
+body{
+    background : var(--main-color-5)
+}
+
+/* HEADER */
+
+header {
+    height: 100px;
+    background : var(--main-color-2);
+    color : var(--main-color-3);
+}
+
+header nav ul {
+    width: ;
+    list-style: none;
+    float: right;
+}
+
+header nav ul li {
+    width: 200px;
+    float: left;
+}
+
+/* end - HEADER */
